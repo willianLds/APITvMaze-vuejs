@@ -7,7 +7,7 @@ O SPA deve ter 3 páginas principais:
 - Detalhes do episódio selecionado
 
 
-# APITvMaze-vuejs-vuejs
+# APITvMaze-vuejs
 
 ## Project setup
 ```
